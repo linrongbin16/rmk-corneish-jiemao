@@ -72,40 +72,40 @@ No No No                                                  No No No
 # layer 4 - Number
 name = "num"
 keys = """
-      _ No 7 8 9 0                                                            No No No No No _
-      _ No 4 5 6 -                                                            No No No No No _
-      _ No 1 2 3 =                                                            No No No No No _
-      [ ] `                                                                   No No No
+_ No 7 8 9 0                                              No No No No No _
+_ No 4 5 6 -                                              No No No No No _
+_ No 1 2 3 =                                              No No No No No _
+[ ] `                                                     No No No
 """
 
 [[layer]]
 # layer 5 - Symbol
 name = "sym"
 keys = """
-      _ No WM(7,LShift) WM(8,LShift) WM(9,LShift) WM(0,LShift)                No No No No No _
-      _ No WM(4,LShift) WM(5,LShift) WM(6,LShift) WM(-,LShift)                No No No No No _
-      _ No WM(1,LShift) WM(2,LShift) WM(3,LShift) WM(=,LShift)                No No No No No _
-      WM([,LShift) WM(],LShift) WM(`,LShift)                                  No No No
+_ No WM(7,LShift) WM(8,LShift) WM(9,LShift) WM(0,LShift)  No No No No No _
+_ No WM(4,LShift) WM(5,LShift) WM(6,LShift) WM(-,LShift)  No No No No No _
+_ No WM(1,LShift) WM(2,LShift) WM(3,LShift) WM(=,LShift)  No No No No No _
+WM([,LShift) WM(],LShift) WM(`,LShift)                    No No No
 """
 
 [[layer]]
 # layer 6 - Edit for Mac
 name = "edit_mac"
 keys = """
-      _ WM(Q,LAlt) WM(W,LAlt) WM(E,LAlt) WM(R,LAlt) WM(T,LAlt)                WM(Y,LAlt) No No No No _
-      _ WM(A,LAlt) WM(S,LAlt) WM(D,LAlt) WM(F,LAlt) WM(G,LAlt)                WM(H,LAlt) No RShift RAlt No _
-      _ WM(Z,LAlt) WM(X,LAlt) WM(C,LAlt) WM(V,LAlt) WM(B,LAlt)                WM(N,LAlt) No No No No _
-      No No No                                                                No No No
+_ WM(Q,LAlt) WM(W,LAlt) WM(E,LAlt) WM(R,LAlt) WM(T,LAlt)  WM(Y,LAlt) No No No No _
+_ WM(A,LAlt) WM(S,LAlt) WM(D,LAlt) WM(F,LAlt) WM(G,LAlt)  WM(H,LAlt) No RShift RAlt No _
+_ WM(Z,LAlt) WM(X,LAlt) WM(C,LAlt) WM(V,LAlt) WM(B,LAlt)  WM(N,LAlt) No No No No _
+No No No                                                  No No No
 """
 
 [[layer]]
 # layer 7 - Edit for Windows
 name = "edit_win"
 keys = """
-      _ WM(Q,LCtrl) WM(W,LCtrl) WM(E,LCtrl) WM(R,LCtrl) WM(T,LCtrl)           WM(Y,LCtrl) No No No No _
-      _ WM(A,LCtrl) WM(S,LCtrl) WM(D,LCtrl) WM(F,LCtrl) WM(G,LCtrl)           WM(H,LCtrl) No RShift RAlt No _
-      _ WM(Z,LCtrl) WM(X,LCtrl) WM(C,LCtrl) WM(V,LCtrl) WM(B,LCtrl)           WM(N,LCtrl) No No No No _
-      No No No                                                                No No No
+_ WM(Q,LCtrl) WM(W,LCtrl) WM(E,LCtrl) WM(R,LCtrl) WM(T,LCtrl)  WM(Y,LCtrl) No No No No _
+_ WM(A,LCtrl) WM(S,LCtrl) WM(D,LCtrl) WM(F,LCtrl) WM(G,LCtrl)  WM(H,LCtrl) No RShift RAlt No _
+_ WM(Z,LCtrl) WM(X,LCtrl) WM(C,LCtrl) WM(V,LCtrl) WM(B,LCtrl)  WM(N,LCtrl) No No No No _
+No No No                                                       No No No
 """
 
 
